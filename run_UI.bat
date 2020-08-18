@@ -1,0 +1,1 @@
+C:\Users\jzhao\anaconda3\python.exe "C:\Users\jzhao\OneDrive\Desktop\Web\Attendence\UI.py" pause
